@@ -56,7 +56,7 @@ The API will be available at `http://localhost:8000`
 
 1. Build the Docker image:
 ```powershell
-docker build -t premium-predictor .
+docker build -t powder04/premium_predictor_api .
 ```
 
 2. Run the container:
